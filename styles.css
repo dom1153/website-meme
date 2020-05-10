@@ -1,0 +1,16 @@
+body {
+  color: #FF0000;
+}
+p {
+  font-family: "Helvetica", "Arial", sans-serif;
+}
+li {
+  color: rgba(83, 136, 123, 0.568);
+  background-color: #EEEEEE;
+}
+strong {
+  color: rgb(21, 111, 246);
+}
+em {
+  color: hsl(24, 100%, 50%);
+}
